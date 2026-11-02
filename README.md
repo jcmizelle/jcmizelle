@@ -1,4 +1,4 @@
-### J. Christopher Mizelle, PhD
+### J.C. (Chris) Mizelle, PhD
 
 Neuroscientist with 20+ years designing experiments and analyzing raw neural and behavioral data: EEG/ERP (time-frequency, connectivity, graph theory), MRI, fMRI and DTI, and quantitative motor behavior. 30 peer-reviewed papers on sensorimotor integration, brain injury, and aging. Long-time journal reviewer and NSF panelist, so much of my work is judging whether an analysis actually supports its conclusions.
 
