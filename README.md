@@ -7,5 +7,6 @@ Neuroscientist with 20+ years designing experiments and analyzing raw neural and
 **Here:**
 - [SMILe](https://github.com/jcmizelle/SMILe) - MATLAB EEG toolbox: preprocessing pipeline, time-frequency and cross-spectral analysis, functional connectivity, surrogate data, permutation statistics, minimum spanning trees, and network visualization
 - [fMRI-Pipeline](https://github.com/jcmizelle/fMRI-Pipeline) - Bash/FSL/FreeSurfer and SPM batch pipelines for task fMRI (fieldmap correction, FEAT, conjunctions, PPI) and TRACULA diffusion tractography
+- [expert-eval-tasks](https://github.com/jcmizelle/expert-eval-tasks) - How I build expert-level evaluation tasks for AI science agents, with a worked EEG case study (directed connectivity vs surrogate nulls) and reproducible Python code
 
 [LinkedIn](https://www.linkedin.com/in/jcmizelle/) · [Google Scholar](https://scholar.google.com/citations?user=Z1xX67cAAAAJ) · [ResearchGate](https://www.researchgate.net/profile/Chris-Mizelle)
